@@ -73,5 +73,3 @@ Security systems for detecting pets in camera feeds.
 🤝 Acknowledgement
 
 This project was developed as part of the IBM–NASSCOM Virtual Internship under the guidance of Mr. Abhishek Singh.
-
-Would you like me to generate a polished README.md file (ready to upload into your repo) with this content so you don’t have to copy-paste manually?
